@@ -1,0 +1,6 @@
+data
+models
+*.csv
+
+# pycache
+__pycache__/
